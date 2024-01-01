@@ -17,17 +17,13 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <a href="https://twitter.com/cupstorms" target="_blank">
+  <a href="https://twitter.com/lamber_j" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&label\
-Color=&style=for-the-badge" height="25" alt="linkedin logo"  />
+Color=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="[https://linkedin.com/in/hamza-hdili-b692601a4](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)" target="_blank">
+  <a href="www.linkedin.com/in/lamber-j-kpukuyou" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelCo\
 lor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://instagram.com/hdlhamza" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&lab\
-elColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
 
