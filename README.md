@@ -30,7 +30,9 @@ lor=&style=for-the-badge" height="25" alt="twitter logo"  />
 ###
 
 <h1 align="center">Hi there 👋</h1>
-
+<p>
+  <img src="https://img.shields.io/github/last-commit/Lamber22?color=blue&label=last%20updated&style=flat" />
+</p>
 ###
 
 <h3 align="left">💻  About Me</h3>
@@ -55,7 +57,7 @@ lor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img width="12" />
   <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" height="40" alt="html logo" />
   <img width="12" />
-  <img src="[https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png](https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png)" height="40" alt="css logo" />
+  <img src="https://monika318.github.io/MySite/static/media/Css.56ac1aee6b08c43e7aac.png" height="40" alt="css logo" />
    <!-- img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  / -->
 </div>
 
