@@ -1,5 +1,5 @@
-<div align="center">### Hi there 👋</div>
-<div align="center" color="blue">##Lamber here</div> 
+<div align="center" >### Hi there 👋</div>
+<div align="center" >Lamber here</div> 
 
 🌱 I’m currently learning Coding at African Leadership X (ALX)
 
