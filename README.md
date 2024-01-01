@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&label\
 Color=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://linkedin.com/in/hamza-hdili-b692601a4" target="_blank">
+  <a href="[https://linkedin.com/in/hamza-hdili-b692601a4](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelCo\
 lor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
