@@ -60,7 +60,7 @@ lor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img width="12" />
   <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" height="40" alt="html logo" />
   <img width="12" />
-  <img src="https://monika318.github.io/MySite/static/media/Css.56ac1aee6b08c43e7aac.png" height="40" alt="css logo" />
+  <img src="https://logospng.org/download/css-3/logo-css-3-1536.png" height="40" alt="css logo" />
    <!-- img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  / -->
 </div>
 
