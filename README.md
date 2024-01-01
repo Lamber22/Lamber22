@@ -32,11 +32,11 @@ lor=&style=for-the-badge" height="25" alt="twitter logo"  />
 <h1 align="center">Hi there 👋</h1>
 
 ###
-###
+
 <p>
   <img src="https://img.shields.io/github/last-commit/Lamber22/Lamber22?color=blue&label=last%20updated&style=flat" />
 </p>
-###
+
 
 <h3 align="left">💻  About Me</h3>
 
