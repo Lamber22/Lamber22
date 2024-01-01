@@ -30,6 +30,7 @@ lor=&style=for-the-badge" height="25" alt="twitter logo"  />
 ###
 
 <h1 align="center">Hi there 👋</h1>
+<h6 align="center">Welcome to my account</h6>
 
 ###
 
