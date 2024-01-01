@@ -37,7 +37,7 @@ lor=&style=for-the-badge" height="25" alt="twitter logo"  />
 
 ###
 
-<p align="left">Hi, Lamber here from Liberia<br><br>- 📚 I'm currently learning coding<br>- ⚡ Technology is my passion</p>
+<p align="left">Hi, am Lamber here from Liberia.<br><br>- 📚 I'm currently learning coding<br>- ⚡ Technology is my passion</p>
 
 ###
 
