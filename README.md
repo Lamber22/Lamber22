@@ -52,6 +52,7 @@ lor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" height="40" />
   <img width="12" />
    <!-- img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  / -->
 </div>
