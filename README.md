@@ -34,9 +34,9 @@ lor=&style=for-the-badge" height="25" alt="twitter logo"  />
 
 ###
 
-<p>
+<!-- p>
   <img src="https://img.shields.io/github/last-commit/Lamber22/Lamber22?color=blue&label=last%20updated&style=flat" />
-</p>
+</p -->
 
 
 <h3 align="left">💻  About Me</h3>
@@ -67,14 +67,14 @@ lor=&style=for-the-badge" height="25" alt="twitter logo"  />
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<!-- h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Lamber22&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak \
 graph"  />
-</div>
+</div -->
 
 ###
  
