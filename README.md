@@ -62,7 +62,10 @@ lor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" height="40" alt="html logo" />
   <img width="12" />
   <img src="https://logospng.org/download/css-3/logo-css-3-1536.png" height="40" alt="css logo" />
-   <!-- img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  / -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+ <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" height="40" alt="css logo" />
 </div>
 
 ###
