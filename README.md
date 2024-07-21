@@ -67,9 +67,9 @@ lor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img width="12" />
  <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" height="40" alt="css logo" />
   <img width="12" />
- <img src="https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp" height="45" alt="css logo" />
+ <img src="https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp" height="56" alt="css logo" />
   <img width="12" />
- <img src="https://logowik.com/content/uploads/images/nodejs.jpg" height="45" alt="css logo" />
+ <img src="https://logowik.com/content/uploads/images/nodejs.jpg" height="55" alt="css logo" />
 </div>
 
 ###
