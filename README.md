@@ -9,7 +9,9 @@
   <a href="https://wa.me/231881574186" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp logo" />
   </a>
-</div>
+   <a href="mailto:joekpukuyou5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
+  </a>
 </div>
 
 ###
@@ -49,12 +51,6 @@
  <img src="https://i.ytimg.com/vi/oR6oi0EB6-I/maxresdefault.jpg" height="40" alt="nodeJS logo" />
 </div>
 
-### Contact Me: <br>
-
-*E-mail* joekpukuyou5@gmail.com<br>
-*Phone* +231 881 574 186
-
----
 ###
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lamber22)](https://git.io/streak-stats)
