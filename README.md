@@ -67,9 +67,9 @@ lor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img width="12" />
  <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" height="40" alt="css logo" />
   <img width="12" />
- <img src="https://www.thecyberiatech.com/wp-content/uploads/2023/07/mongodb-no-sql01.webp" height="40" alt="css logo" />
+ <img src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/tueCBKFRgTMMQjZBWgTKu3Uk/035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882" height="40" alt="css logo" />
   <img width="12" />
- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--KkScstnJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zojuy79lo3fn3qdt7g6p.png" height="40" alt="css logo" />
+ <img src="https://th.bing.com/th/id/OIP.iycUPr7LMfm1eKP6nRXaSQAAAA?rs=1&pid=ImgDetMain" height="40" alt="css logo" />
 </div>
 
 ###
