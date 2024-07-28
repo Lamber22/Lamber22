@@ -69,7 +69,7 @@ lor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img width="12" />
  <img src="https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp" height="60" alt="css logo" />
   <img width="12" />
- <img src="https://logowik.com/content/uploads/images/nodejs.jpg" height="60" alt="css logo" />
+ <img src="https://marxcommunications.com/wp-content/uploads/2023/03/1521e0ce8aa4be98/development-of-websites.png" height="40" alt="css logo" />
 </div>
 
 ###
