@@ -67,9 +67,9 @@ lor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img width="12" />
  <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" height="40" alt="css logo" />
   <img width="12" />
- <img src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/tueCBKFRgTMMQjZBWgTKu3Uk/035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882" height="40" alt="css logo" />
+ <img src="https://karunakaran721.github.io/Educational-Institute/Courses/mangodb.jpg" height="40" alt="MongoDB logo" />
   <img width="12" />
- <img src="https://th.bing.com/th/id/OIP.iycUPr7LMfm1eKP6nRXaSQAAAA?rs=1&pid=ImgDetMain" height="40" alt="css logo" />
+ <img src="https://i.ytimg.com/vi/oR6oi0EB6-I/maxresdefault.jpg" height="40" alt="nodeJS logo" />
 </div>
 
 ###
