@@ -6,6 +6,10 @@
   <a href="https://x.com/lamber_j" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo" />
   </a>
+  <a href="https://wa.me/231881574186" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp logo" />
+  </a>
+</div>
 </div>
 
 ###
