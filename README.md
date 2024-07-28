@@ -1,8 +1,6 @@
-
-
 ###
 
-<!-- div align="center">
+<div align="center">
   <a href="https://twitter.com/lamber_j" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&label\
 Color=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -11,7 +9,7 @@ Color=&style=for-the-badge" height="25" alt="twitter logo"  />
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelCo\
 lor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-</div -->
+</div>
 
 ###
 
@@ -49,7 +47,12 @@ lor=&style=for-the-badge" height="25" alt="twitter logo"  />
  <img src="https://i.ytimg.com/vi/oR6oi0EB6-I/maxresdefault.jpg" height="40" alt="nodeJS logo" />
 </div>
 
+### Contact Me: <br>
 
+*E-mail* joekpukuyou5@gmail.com<br>
+*Phone* +231 881 574 186
+
+---
 ###
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lamber22)](https://git.io/streak-stats)
