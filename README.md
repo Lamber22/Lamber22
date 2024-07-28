@@ -28,6 +28,8 @@
 
 ###
 <div align="left">
+  <img src="https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/11/18/1558323980054.jpg" height="40" alt="c logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
