@@ -44,6 +44,8 @@
   <img width="12" />
  <img src="https://th.bing.com/th/id/R.6c9c76e3b4bc315dbdbd846fc45e5d39?rik=jya%2bQveE5GOZGg&riu=http%3a%2f%2fwww.mimastech.com%2fwp-content%2fuploads%2f2017%2f02%2fmongodb-logo.png&ehk=0twpwa%2f5gI%2b8Iyr%2bnIdNToOccO2E3XgTHQ9kR84lSOI%3d&risl=&pid=ImgRaw&r=0" height="40" alt="MongoDB logo" />
   <img width="12" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" height="40" alt="Flask logo" />
+  <img width="12" />
  <img src="https://i.ytimg.com/vi/oR6oi0EB6-I/maxresdefault.jpg" height="40" alt="nodeJS logo" />
 </div>
 
