@@ -46,7 +46,7 @@
   <img width="12" />
   <img src="https://tse2.mm.bing.net/th/id/OIP.2R-Y6NpgeI1r1ZCNp3x3rAAAAA?w=300&h=300&rs=1&pid=ImgDetMain&o=7&rm=3" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://tse1.mm.bing.net/th/id/OIP.hez4y0JQmJUy9ppw5tHi3wHaGp?rs=1&pid=ImgDetMain&o=7&rm=3" height="40" alt="NextJS logo"  />
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/237403755/original/93351be822bba1c12a2bd249938526ada8a11845/make-a-modern-web-app-for-you.png" height="40" alt="NextJS logo"  />
   <img width="12" />
  <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" height="40" alt="css logo" />
   <img width="12" />
