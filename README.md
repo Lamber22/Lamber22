@@ -57,6 +57,9 @@
  <img src="https://i.ytimg.com/vi/oR6oi0EB6-I/maxresdefault.jpg" height="40" alt="nodeJS logo" />
     <img width="12" />
  <img src="https://www.pngkey.com/png/detail/466-4667821_postgres-logo.png" height="40" alt="postgres logo" />
+ <img src="https://i.ytimg.com/vi/oR6oi0EB6-I/maxresdefault.jpg" height="40" alt="nodeJS logo" />
+    <img width="12" />
+ <img src="https://th.bing.com/th/id/R.db17271498520a876e66b63cf621db7a?rik=6RHNPenQa%2bWoNQ&pid=ImgRaw&r=0" height="40" alt="typescript logo" />
 </div>
 
 ###
